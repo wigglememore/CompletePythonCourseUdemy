@@ -1,5 +1,5 @@
-# Learning-Python
-A documentary of my python learning experiences with learning sources, code and reviews
+# Learning-Python---Udemy---The-Complete-Python-Course
+A documentary of my python learning experience with the Udemy course 'The Complete Python Course' with learning sources, code and reviews
 
 Things that will be added to this repository:
 
