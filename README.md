@@ -3,5 +3,8 @@ A documentary of my python learning experience with the Udemy course 'The Comple
 
 Things that will be added to this repository:
 
-My example code and comments for each course element of the online course
-A review of the learning experience
+
+
+
+
+ Markup : * My example code and comments for each course element of the online course
